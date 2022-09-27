@@ -72,6 +72,8 @@ sudo systemctl enable mongodb
 sudo systemctl status mongodb
 ```
 
+![App Screenshot](https://github.com/scholarship-task/mean-task/blob/main/screenshots/book-mongod-status.png)
+
 ### Project Initialization
 Create a NodeJS application by running npm init and followed the prompt to initialize the Project and install Express and MongoDB package dependency for running a MEAN stack application and body-parser to process JSON request
 
@@ -89,13 +91,17 @@ npm install body-parser
 
 Inside the project folder run the command below:
 
+
 ```
 node server.js
 ```
+![App Screenshot](https://github.com/scholarship-task/mean-task/blob/2a4b1b9ad55fdd57e96da0966f74098602b5715b/screenshots/books-terminal.png)
 
-Access the project on your web browser using **http://IP-ADDRESS:3000**
+
+
+Access the project on your web browser using **http://IP-ADDRESS:3300**
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/scholarship-task/mean-task/blob/main/screenshots/book_ui.png)
 
